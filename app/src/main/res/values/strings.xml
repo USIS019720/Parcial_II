@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parcial-2</string>
+    <string name="titulo">Titulo</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="duracion">Duracion</string>
+    <string name="precio">Precio</string>
+    <string name="trailer">URL Trailer</string>
+    <string name="buscar">Buscar...</string>
+</resources>
